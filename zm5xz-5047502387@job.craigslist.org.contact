@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2015-05-30T07:14:38Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="b8f33676-d92e-41dc-9e46-e982b4597fb8"><c:Value>192c14bb-b274-48f7-bc82-f576ad1a0957</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="1fc0592f-ce3f-4e78-a438-825187ba87d7"><c:FormattedName>zm5xz-5047502387@job.craigslist.org</c:FormattedName><c:GivenName>zm5xz-5047502387@job.craigslist.org</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="fb28919b-9d59-418c-a578-b314c5d5850a"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
